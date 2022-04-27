@@ -3,7 +3,8 @@ import random
 import math
 import time
 
-from loguru import logger
+#from loguru import logger
+import logging as logger
 
 from tcputils import (
     FLAGS_FIN,
